@@ -19,5 +19,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/gifs/sQTVrY1fKObedgp6gz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/sQTVrY1fKObedgp6gz/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
