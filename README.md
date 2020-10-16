@@ -2,7 +2,21 @@
 
 **Tweety** is a basic twitter app to read your tweets.
 
-Time spent: **3** hours spent in total
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can compose a tweet.
+- [x] User can favorite a tweet.
+- [x] User can retweet a tweet.
+
+# Twitter - Part I
 
 ## User Stories
 
@@ -13,9 +27,9 @@ Time spent: **3** hours spent in total
 - [x] User can view tweets with the user profile picture, username, and tweet text.
 
 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/sQTVrY1fKObedgp6gz/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://media.giphy.com/media/3kqurGppTE7dNGbMUp/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
