@@ -6,11 +6,9 @@
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
-
-The following **required** functionality is completed:
 
 - [x] User can compose a tweet.
 - [x] User can favorite a tweet.
